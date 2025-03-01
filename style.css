@@ -1,0 +1,22 @@
+ul {
+    list-style: none;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.safe-font {
+font-family: Arial;
+}
+
+.custom-font {
+    font-family: "SchoolBook", serif;
+    font-weight: 700;
+}
+
+.google-font {
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
